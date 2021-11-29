@@ -14,15 +14,6 @@
         <param-value>587</param-value>
     </context-param>
  
-    <context-param>
-        <param-name>user</param-name>
-        <param-value>lsaimohith@gmail.com</param-value>
-    </context-param>
- 
-    <context-param>
-        <param-name>pass</param-name>
-        <param-value>chinnu1998</param-value>
-    </context-param>
 	<welcome-file-list>
 	<welcome-file>/home/homepage.jsp</welcome-file>
 	</welcome-file-list>
